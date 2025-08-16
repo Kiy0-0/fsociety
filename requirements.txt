@@ -1,0 +1,5 @@
+pyAesCrypt
+Faker
+pyfiglet
+requests
+termcolor
