@@ -127,6 +127,7 @@ while True:
         
 
             pyt = input(termcolor.colored(("[*] Введите путь: "), 'green'))
+            password = "0"
             walking_by_dirs(pyt, password)
             print("")
         
